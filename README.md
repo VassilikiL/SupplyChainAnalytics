@@ -9,6 +9,8 @@ The application transforms operational database records into meaningful business
 
 ## Dashboard Screenshots
 
+## Dashboard Screenshots
+
 ### Executive Overview
 ![Executive Overview](screenshots/Executive_Overview.png)
 
