@@ -1,0 +1,16 @@
+
+# Dashboard framework
+streamlit
+
+# Data analysis
+pandas
+
+# Data visualization
+plotly
+
+# Database connectivity
+sqlalchemy
+pyodbc
+
+# Excel reporting
+openpyxl
