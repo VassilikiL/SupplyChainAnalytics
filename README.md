@@ -7,23 +7,25 @@ The application transforms operational database records into meaningful business
 
 ## Dashboard Preview
 
+## Dashboard Screenshots
+
 ### Executive Overview
 ![Executive Overview](screenshots/Executive_Overview.png)
 
 ### Sales Analysis
 ![Sales Analysis](screenshots/Sales_Analysis.png)
 
-![Sales Analysis - Additional View](screenshots/Sales_Analysis2.png)
+![Sales Analysis 2](screenshots/Sales_Analysis2.png)
 
 ### Inventory Analysis
 ![Inventory Analysis](screenshots/Inventory_Analysis.png)
 
-![Inventory Analysis - Additional View](screenshots/Inventory_Analysis2.png)
+![Inventory Analysis 2](screenshots/Inventory_Analysis2.png)
 
 ### Business Insights
 ![Business Insights](screenshots/Business_Insights.png)
 
-![Business Insights - Additional View](screenshots/Business_Insights2.png)
+![Business Insights 2](screenshots/Business_Insights2.png)
 
 ## Business Objectives
 
