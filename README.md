@@ -24,6 +24,12 @@ The application transforms operational database records into meaningful business
 
 ![Inventory Analysis 2](screenshots/Inventory_Analysis2.png)
 
+### Revenue Comparison
+![Revenue Comparison](screenshots/Revenue_Comparison.png)
+
+### Revenue Contribution
+![Revenue Contribution](screenshots/Revenue_Contribution.png)
+
 ### Business Insights
 ![Business Insights](screenshots/Business_Insights.png)
 
